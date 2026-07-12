@@ -1,0 +1,7 @@
+[28592:19252:0317/154303.209:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28592:16348:0317/154303.597:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[28592:19252:0317/154303.840:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28592:19252:0317/154330.031:ERROR:usb_descriptors.cc(146)] Failed to read length for configuration 1.
+[28592:19252:0317/154330.032:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 2, got 1.
+[28592:19252:0317/154330.032:ERROR:device_event_log_impl.cc(196)] [15:43:30.032] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_8153#000001#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[28592:19252:0317/163941.537:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

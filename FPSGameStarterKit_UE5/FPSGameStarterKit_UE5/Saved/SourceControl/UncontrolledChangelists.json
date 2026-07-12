@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/KRISL/Downloads/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Content/FPS_Game/Maps/Level_1.umap",
+				"C:/Users/KRISL/Downloads/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Content/FPS_Game/UI/W_SaveMainMenu.uasset",
+				"C:/Users/KRISL/Downloads/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Content/FPS_Game/Maps/Level_2.umap",
+				"C:/Users/KRISL/Downloads/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Content/FPS_Game/Blueprints/Bonus/VendingMachines/BP_VendingMachine_NextLevel.uasset",
+				"C:/Users/KRISL/Downloads/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Content/FPS_Game/Materials/M_Basic_Floor.uasset",
+				"F:/NYP/DX1217 3DLD/FPS_Starter_Kit_UE5/FPSGameStarterKit/Content/FPS_Game/Maps/Testing.umap"
+			]
+		}
+	]
+}
