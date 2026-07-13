@@ -1615,3 +1615,19 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.07.13-05.12.29:718][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 682.646240
 [2026.07.13-05.12.30:408][493]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.07.13-05.12.30:408][493]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 683.003723, Update Interval: 347.978760
+[2026.07.13-05.13.34:445][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.13-05.13.34:725][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.07.13-05.13.35:228][764]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/Testing
+[2026.07.13-05.13.35:230][764]LogSavePackage: Moving '../../../../../../Users/chris/Desktop/GAME_LEVEL_DESIGN stuff/GLD_ASSIGNMENT_2/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Saved/TestingB4C00E0E475B619C0C5BBF8B5F3FCB1E.tmp' to '../../../../../../Users/chris/Desktop/GAME_LEVEL_DESIGN stuff/GLD_ASSIGNMENT_2/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Content/FPS_Game/Maps/Testing.umap'
+[2026.07.13-05.13.35:268][764]LogFileHelpers: All files are already saved.
+[2026.07.13-05.13.35:268][764]LogFileHelpers: Saving map 'Testing' took 0.645
+[2026.07.13-05.13.35:307][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 861.708 ms
+[2026.07.13-05.13.35:479][764]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.13-05.13.35:479][764]LogContentValidation: Enabled validators:
+[2026.07.13-05.13.35:479][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.13-05.13.35:479][764]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.13-05.13.35:479][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.13-05.13.35:479][764]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.13-05.13.35:479][764]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.13-05.13.35:479][764]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.13-05.13.35:482][764]AssetCheck: /Game/FPS_Game/Maps/Testing Validating asset
