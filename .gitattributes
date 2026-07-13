@@ -1,0 +1,24 @@
+# Unreal Engine binary asset types — never apply line-ending conversion
+*.uasset binary
+*.umap binary
+*.upk binary
+*.udk binary
+*.uexp binary
+*.ubulk binary
+
+# Other common binary types that may live in an Unreal project
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.psd binary
+*.fbx binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.ttf binary
+*.otf binary
+*.dll binary
+*.lib binary
+*.exe binary
+*.pdb binary
