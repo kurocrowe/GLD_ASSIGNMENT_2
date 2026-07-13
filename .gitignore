@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+ 
+# Fixed rules to match nested project folder depth 
+**/Saved/* 
+**/Intermediate/* 
+**/DerivedDataCache/* 
+**/Plugins/**/Intermediate/* 
